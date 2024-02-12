@@ -1,5 +1,5 @@
-Web Scraping with Selenium and BeautifulSoup
-Overview
+# Web Scraping with Selenium and BeautifulSoup
+## Overview
 
 This Python script is designed to scrape data from a website using Selenium WebDriver and BeautifulSoup. It extracts information such as product names, prices, and availability from the specified website and saves the data to an Excel file.
 Prerequisites
