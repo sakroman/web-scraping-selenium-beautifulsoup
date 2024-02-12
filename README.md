@@ -13,16 +13,16 @@ Installation
 
     Clone the repository to your local machine:
 
-    bash
-
+```
 git clone https://github.com/your_username/your_project.git
 cd your_project
+```
 
 Install the required Python packages using pip:
 
-bash
-
+```
 pip install -r requirements.txt
+```
 
 Usage
 
@@ -30,8 +30,9 @@ Usage
 
     Run the script:
 
-    bash
 
+```
 python main.py
+```
 
 The script will navigate through the pages of the website, extract the desired data, and save it to an Excel file named names.xlsx in the project directory.
