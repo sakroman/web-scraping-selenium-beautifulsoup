@@ -9,29 +9,29 @@ Prerequisites
     BeautifulSoup
     Firefox WebDriver (geckodriver)
 
-Installation
+## Installation
 
     Clone the repository to your local machine:
 
-```
+```bash
 git clone https://github.com/your_username/your_project.git
 cd your_project
 ```
 
-Install the required Python packages using pip:
+### Install the required Python packages using pip:
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
-Usage
+### Usage
 
     Modify the script (main.py) to specify the URL of the website you want to scrape and customize the data extraction logic as needed.
 
     Run the script:
 
 
-```
+```bash
 python main.py
 ```
 
